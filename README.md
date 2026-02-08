@@ -102,7 +102,7 @@ Evaluating the natural logarithm of [factorial function][factorial-function] is 
 ## Usage
 
 ```javascript
-import factoriallnf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-factoriallnf@esm/index.mjs';
+import factoriallnf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-factoriallnf@v0.1.1-esm/index.mjs';
 ```
 
 #### factoriallnf( x )
@@ -148,7 +148,7 @@ var v = factoriallnf( NaN );
 
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-uniform@esm/index.mjs';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@esm/index.mjs';
-import factoriallnf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-factoriallnf@esm/index.mjs';
+import factoriallnf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-factoriallnf@v0.1.1-esm/index.mjs';
 
 var opts = {
     'dtype': 'float32'
